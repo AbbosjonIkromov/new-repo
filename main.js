@@ -1,3 +1,3 @@
 console.log(4+5);
-console.clear();
+console.log(1 + 1);
 console.log(4+51);

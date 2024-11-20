@@ -6,7 +6,7 @@ namespace Dotnet
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Meni ismim Abbosjon");
+            Console.Writeline("Meni familyam Ikromov");
         }
     }
 }
