@@ -1,0 +1,1 @@
+Console.WriteLine("Meni ismim Abbosjon Ikromov");
