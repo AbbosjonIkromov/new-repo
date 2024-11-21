@@ -1,1 +1,1 @@
-Console.WriteLine("Meni ismim Abbosjon Ikromov");
+Console.WriteLine("Meni ismim Abbos");
